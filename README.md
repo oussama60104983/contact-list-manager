@@ -140,13 +140,4 @@ deactivate
 
 ## Note for Testing
 
-This application contains intentionally introduced bugs for educational purposes in software testing. These bugs are distributed across different components of the application including:
-- Form validation
-- Data integrity
-- Error handling
-- User interface
-- API endpoints
-
-## License
-
-[Your License Here]
+This application contains intentionally introduced bugs for educational purposes in software testing. These bugs are distributed across different components of the application.
