@@ -1,6 +1,6 @@
 # Contact List Manager
 
-A Flask-based web application for managing contacts. This application includes intentionally introduced bugs for educational purposes in software testing.
+A Flask-based web application for managing contacts. This application intentionally has some bugs for educational purposes in software testing.
 
 ## Prerequisites
 
